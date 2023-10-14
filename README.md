@@ -11,7 +11,7 @@
 ## Now interested in: 
 - Operational Research
 - Deep Learning
-- STM32 MCU & FPGA
+- Digital Signal Processing
 <!---
 HolyDDL/HolyDDL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
