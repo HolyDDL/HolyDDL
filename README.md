@@ -1,3 +1,4 @@
+<!---
 # Welcome
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile+!+👋;I+am+always+learning+new+things;On+the+way+to+become+better;Hope+to+communicate+with+you+!)](https://git.io/typing-svg)
 
@@ -12,6 +13,7 @@
 - Operational Research
 - Deep Learning
 - Digital Signal Processing
+--->
 <!---
 HolyDDL/HolyDDL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
